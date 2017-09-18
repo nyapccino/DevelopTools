@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadFactory", "BreadFactory\BreadFactory.csproj", "{9E9C25EC-78FA-4DF8-A635-AA7FED10F9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadFactoryTests", "BreadFactoryTests\BreadFactoryTests.csproj", "{8675CCAC-4409-4F90-907E-F0852F9CBD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9C25EC-78FA-4DF8-A635-AA7FED10F9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9C25EC-78FA-4DF8-A635-AA7FED10F9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9C25EC-78FA-4DF8-A635-AA7FED10F9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9C25EC-78FA-4DF8-A635-AA7FED10F9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8675CCAC-4409-4F90-907E-F0852F9CBD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8675CCAC-4409-4F90-907E-F0852F9CBD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8675CCAC-4409-4F90-907E-F0852F9CBD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8675CCAC-4409-4F90-907E-F0852F9CBD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A245D3-06DD-4A65-BD0F-BDF840F8E64C}
+	EndGlobalSection
+EndGlobal
